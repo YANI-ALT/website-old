@@ -83,8 +83,8 @@ section #intro{
 
 #intro{
   font-family: 'Oxygen',sans-serif;
-  padding:10px;
-  margin-top:100px;
+  padding:5px;
+  margin-top:10px;
 
 
 }
@@ -131,7 +131,7 @@ article
 
 /*media queries*/
 
-@@media (max-width:768px) {
+@media (max-width:768px) {
   header #branding,header nav, header nav li{
     float:none;
     text-align: center;
